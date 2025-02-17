@@ -51,6 +51,7 @@ Run Synthesis, Implementation, and Bitstream Generation.
 
 ## 👨‍💻 Authors & Contributions
 Sriniketh Sekar - Verilog Modules, Simulation, and FPGA Synthesis
+
 Nithish Roy , Sriniketh Sekar - DAE Model Training and Weight Export
 
 ## 📄 License
